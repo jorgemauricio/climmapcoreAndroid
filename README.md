@@ -2,5 +2,5 @@
 Generar una aplicación similar a climmapcore para la plataforma Android
 
 ## Developers
-Paulina Nieves
-Gerardo García
+*Paulina Nieves
+*Gerardo García
