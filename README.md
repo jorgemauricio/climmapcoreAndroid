@@ -8,4 +8,4 @@ Generar una aplicación similar a climmapcore para la plataforma Android
 
 
 ### Proyecto de estadía
-* UPA
+Universidad Politécnica de Aguascalientes
