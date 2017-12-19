@@ -5,3 +5,6 @@ Generar una aplicación similar a climmapcore para la plataforma Android
 * Paulina Nieves
 * Gerardo García
 * Jorge Mauricio
+
+
+### Proyecto de estadía
