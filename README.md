@@ -9,4 +9,4 @@ Generar una aplicación similar a climmapcore para la plataforma Android
 
 ### Proyecto de estadía
 Universidad Politécnica de Aguascalientes
-Ciclo 2018-1
+*Ciclo 2018-1
