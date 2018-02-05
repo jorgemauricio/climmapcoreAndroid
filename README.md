@@ -7,5 +7,5 @@ Generar una aplicación similar a climmapcore para la plataforma Android
 * Jorge Mauricio
 
 
-### Proyecto de estadía
+### Proyecto de estancia 2018-1
 Universidad Politécnica de Aguascalientes
